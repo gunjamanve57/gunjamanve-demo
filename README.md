@@ -1,3 +1,4 @@
 # gunjan-demo
-This is my first git repository
-author-gunja manve
+This is my first git repository.
+<br>
+Author-gunja manve
